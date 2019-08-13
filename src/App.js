@@ -27,6 +27,10 @@ const RValueDiv = styled(DivStartStyle)`
   line-height: 5px;
 `;
 const ButtonConteiner = styled(DivStartStyle)``;
+const DefaultP = styled.p`
+  padding: 0 10px;
+  color: grey;
+`;
 class App extends React.Component {
   state = {
     inputText: "",
@@ -63,6 +67,7 @@ class App extends React.Component {
             <RValueDiv>
               <p>R =</p>
               <input id="rValue" type="text" placeholder="R value" pattern="[3]{1}\.{1,2}" />
+              <DefaultP>default R = 3.68</DefaultP>
             </RValueDiv>
             <ButtonConteiner>
               <ButtonStyled onClick={this.encode}>Encode</ButtonStyled>
