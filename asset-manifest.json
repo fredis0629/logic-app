@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/logic-app/static/css/main.4011c4c8.chunk.css",
+    "main.js": "/logic-app/static/js/main.0ba47358.chunk.js",
+    "main.js.map": "/logic-app/static/js/main.0ba47358.chunk.js.map",
+    "runtime~main.js": "/logic-app/static/js/runtime~main.d2c20982.js",
+    "runtime~main.js.map": "/logic-app/static/js/runtime~main.d2c20982.js.map",
+    "static/js/2.05dfdb23.chunk.js": "/logic-app/static/js/2.05dfdb23.chunk.js",
+    "static/js/2.05dfdb23.chunk.js.map": "/logic-app/static/js/2.05dfdb23.chunk.js.map",
+    "index.html": "/logic-app/index.html",
+    "precache-manifest.627325721e27b48bb87b9f368258eb66.js": "/logic-app/precache-manifest.627325721e27b48bb87b9f368258eb66.js",
+    "service-worker.js": "/logic-app/service-worker.js",
+    "static/css/main.4011c4c8.chunk.css.map": "/logic-app/static/css/main.4011c4c8.chunk.css.map"
+  }
+}
